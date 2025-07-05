@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/juhemcp-jweather-mcp-server-badge.png)](https://mseep.ai/app/juhemcp-jweather-mcp-server)
+
 # Juhe Weather MCP Server
 
 一个提供全国天气预报查询功能的模型上下文协议（Model Context Protocol）服务器。该服务器使大型语言模型（LLMs）能够获取全国城市、地区的天气预报情况。
